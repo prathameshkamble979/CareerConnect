@@ -1,5 +1,7 @@
 # CareerConnect - Job Portal
 
+Live Demo: https://drive.google.com/file/d/11Hm4CYD-N8iFvjgZoNmbPukCYKh3Amt6/view?usp=drive_link
+
 **CareerConnect** is a full-stack job portal built with React.js and Node.js that connects job seekers with employers.
 
 ## 🚀 Features
